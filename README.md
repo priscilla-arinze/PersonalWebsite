@@ -1,8 +1,8 @@
 ## Preview
 
-![Preview](https://github.com/Mustafa-Sadriwala/acm-swe-workshop/blob/master/img/github/preview.png)
+![Preview](https://github.com/glowfessorkingslayer/PersonalWebsite/blob/master/img/github/preview2.png)
 
-**[View Live Preview](https://mustafa-sadriwala.github.io/acm-swe-workshop/)**
+**[View Live Preview](https://#)**
 
 ## Download and Installation
 
